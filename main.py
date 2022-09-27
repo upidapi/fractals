@@ -27,7 +27,8 @@ def serpinski_points(p1, p2, p3):
 
 
 def call_serpinski(p1, p2, p3):
-    
+    sub_triangle = serpinski_points(p1, p2, p3)
+    sub =
 
 
 pg.init()
